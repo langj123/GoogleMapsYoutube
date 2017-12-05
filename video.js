@@ -62,9 +62,38 @@ function getYoutubeMovies(lat, lng, word, rad, map, markers) {
 		});
 }
 function closeModal(){
-
+	var par = this.parentElement;
+	var classes = par.className;
+	checkClass(classes, "toggle-off", par);
 }
 
+function checkClass(i, c, elem) {
+	if (i.indexOf(c) != -1) {
+		removeClass(i, c, elem);
+	} else {
+		addClass(i, c, elem);
+	}
+}
+function removeClass(i, c, elem) {
+	elem.className += elem.className.replace(" " + c, '');
+}
+function addClass(i, c, elem) {
+	elem.className += " " + c;
+}
+function alterFrame(t) {
+	var d = t.getAttribute("data-video");
+	var desc = t.parentElement.parentElement.getAttribute("data-desc");
+	var tit = t.parentElement.parentElement.getAttribute("data-title");
+	var frame = document.getElementsByClassName("modal")[0];
+	var iframe = frame.getElementsByTagName("iframe")[0];
+	var h2 = frame.getElementsByTagName("h2")[0];
+	var p = frame.getElementsByTagName("p")[0];
+
+	h2.innerText = tit;
+	p.innerText = desc;
+	iframe.setAttribute("src", d);
+	checkClass(frame.className, "toggle-off", frame);
+}
 function createFrame(t) {
 	var hook = document.getElementsByClassName("map-vids")[0];
 	var d = t.getAttribute("data-video");
@@ -82,7 +111,7 @@ function createFrame(t) {
 	var close = document.createElement("button");
 
 	close.setAttribute("class","close");
-	close.innerText = "Close";
+	close.innerText = "X";
 	cont.setAttribute("class", "main-desc");
 	p.innerText = desc;
 	h2.innerText = tit;
@@ -101,6 +130,7 @@ function createFrame(t) {
 	artwrap.appendChild(cont);
 	div.appendChild(iframe);
 	hook.appendChild(wrap);
+	close.addEventListener("click", closeModal);
 	return false;
 }
 
@@ -142,7 +172,14 @@ function printVids(vids) {
 			li.appendChild(wrap);
 			r.appendChild(li);
 
-			play.addEventListener("click", function() { createFrame(this); });
+			play.addEventListener("click", function() {
+				var frame = document.getElementsByClassName('modal');
+				if (frame.length == 0) {
+					createFrame(this);
+				} else {
+					alterFrame(this);
+				}
+			});
 		} // end for
 	}
 }

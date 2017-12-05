@@ -1,0 +1,1864 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"clas",
+				"classList"
+			],
+			[
+				"close",
+				"closeModal"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"smal",
+				"small-break"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"coun",
+				"counter-increment"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"entry",
+				"entry-content"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"marg",
+				"margin-bottom"
+			],
+			[
+				"pa",
+				"padding-top"
+			],
+			[
+				"ma",
+				"max-width"
+			],
+			[
+				"pad",
+				"padding-top"
+			],
+			[
+				"m",
+				"margin-top"
+			],
+			[
+				"entr",
+				"entry-buttons"
+			],
+			[
+				"ent",
+				"entry-subtitle"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"fun",
+				"function_exists"
+			],
+			[
+				"lin",
+				"line-height"
+			],
+			[
+				"tran",
+				"translateX"
+			],
+			[
+				"get_template_d",
+				"get_template_directory_uri"
+			],
+			[
+				"no",
+				"nowrap"
+			],
+			[
+				"inlin",
+				"inline-block"
+			],
+			[
+				"get_temp",
+				"get_template_directory_uri"
+			],
+			[
+				"an",
+				"avenir"
+			],
+			[
+				"font-",
+				"font-family"
+			],
+			[
+				"margin-",
+				"margin-bottom"
+			],
+			[
+				"slick",
+				"slick-prev"
+			],
+			[
+				"slic",
+				"slick-next"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"ba",
+				"background"
+			],
+			[
+				"marin",
+				"margin-top"
+			],
+			[
+				"parn",
+				"partner-types-nav"
+			],
+			[
+				"p",
+				"padding-top"
+			],
+			[
+				"small",
+				"small-break"
+			],
+			[
+				"bor",
+				"border-radius"
+			],
+			[
+				"bord",
+				"border-radius"
+			],
+			[
+				"list",
+				"list-style-type"
+			],
+			[
+				"flex-",
+				"flex-start"
+			],
+			[
+				"entry-pane",
+				"entry-panel-jobs"
+			],
+			[
+				"backg",
+				"background-size"
+			],
+			[
+				"d",
+				"display"
+			],
+			[
+				"panel-align",
+				"panel-align-content"
+			],
+			[
+				"trans",
+				"translateX"
+			],
+			[
+				"h",
+				"height"
+			],
+			[
+				"tra",
+				"translateX"
+			],
+			[
+				"header-size",
+				"header-size-tall"
+			],
+			[
+				"flex",
+				"flex-start"
+			],
+			[
+				"par",
+				"parE"
+			],
+			[
+				"cls",
+				"className"
+			],
+			[
+				"get",
+				"getElementsByTagName"
+			],
+			[
+				"pag",
+				"pageYOffset"
+			],
+			[
+				"bo",
+				"border-radius"
+			],
+			[
+				"fle",
+				"flex-start"
+			],
+			[
+				"style",
+				"style-text"
+			],
+			[
+				"en",
+				"entry-panel"
+			],
+			[
+				"add",
+				"addEventListener"
+			],
+			[
+				"padd",
+				"padding-left"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"slid",
+				"slidesPerRow"
+			],
+			[
+				"get_tem",
+				"get_template_directory_uri"
+			],
+			[
+				"slide",
+				"slidesToShow"
+			],
+			[
+				"location",
+				"location_filters"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"tr",
+				"translateX"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"paren",
+				"parentElement"
+			],
+			[
+				"le",
+				"letter-spacing"
+			],
+			[
+				"o",
+				"output"
+			],
+			[
+				"it",
+				"item_output"
+			],
+			[
+				"len",
+				"length"
+			],
+			[
+				"b",
+				"box-decoration-break"
+			],
+			[
+				"post",
+				"posts_filters"
+			],
+			[
+				"loca",
+				"location_filters"
+			],
+			[
+				"loc",
+				"location_filter_trigger"
+			],
+			[
+				"page",
+				"page_description"
+			],
+			[
+				"text-",
+				"text-transform"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"paddi",
+				"padding-left"
+			],
+			[
+				"mi",
+				"min-height"
+			],
+			[
+				"trn",
+				"translate"
+			],
+			[
+				"entry-pa",
+				"entry-panel-partner-types"
+			],
+			[
+				"li",
+				"list-style-type"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"i",
+				"italic"
+			],
+			[
+				"l",
+				"list-style-type"
+			],
+			[
+				"lte",
+				"letter-spacing"
+			],
+			[
+				"paddingrig",
+				"padding-right"
+			],
+			[
+				"entry-panel",
+				"entry-panel-jobs"
+			],
+			[
+				"fo",
+				"font-size"
+			],
+			[
+				"cons",
+				"console"
+			],
+			[
+				"locations",
+				"locations_details"
+			],
+			[
+				"ex",
+				"expectations_nav"
+			],
+			[
+				"is",
+				"is_array"
+			],
+			[
+				"panel_ty",
+				"panel_type_over"
+			],
+			[
+				"panel",
+				"panel-background-custom"
+			],
+			[
+				"prin",
+				"print_r"
+			],
+			[
+				"pan",
+				"panel-content"
+			],
+			[
+				"c",
+				"center"
+			],
+			[
+				"min-",
+				"min-width"
+			],
+			[
+				"is_sin",
+				"is_singular"
+			],
+			[
+				"paddin",
+				"padding-right"
+			],
+			[
+				"n",
+				"nth-of-type"
+			],
+			[
+				"w",
+				"watermark"
+			],
+			[
+				"pare",
+				"parentElement"
+			],
+			[
+				"scrol",
+				"scrollTop"
+			],
+			[
+				"sub",
+				"subcontainer"
+			],
+			[
+				"wid",
+				"widget-title"
+			],
+			[
+				"re",
+				"relative"
+			],
+			[
+				"lis",
+				"list-style-type"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"bac",
+				"background"
+			],
+			[
+				"getEleme",
+				"getElementsByClassName( classNames: DOMString ): HTMLCollection	Document"
+			],
+			[
+				"for",
+				"forwards"
+			],
+			[
+				"transfor",
+				"transformOrigin	Style CSS"
+			],
+			[
+				"trasfor",
+				"transformStyle	Style CSS"
+			],
+			[
+				"cur",
+				"currentTime"
+			],
+			[
+				"snow",
+				"snowflake"
+			],
+			[
+				"outputCa",
+				"outputCanvas"
+			],
+			[
+				"buffer",
+				"bufferCanvas"
+			],
+			[
+				"con",
+				"console.log()"
+			],
+			[
+				"client",
+				"clientWidth"
+			],
+			[
+				"cli",
+				"clientHeight"
+			],
+			[
+				"ics",
+				"icsstudios"
+			],
+			[
+				"get_home",
+				"get_home_url"
+			],
+			[
+				"get_p",
+				"get_permalink"
+			],
+			[
+				"gre",
+				"grey-border"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 1337,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "function initMap() {\n    var map = new google.maps.Map(document.getElementById('GoogleMap'), {\n      zoom: 14,\n      center: {lat: -34.397, lng: 150.644}\n    });\n    var markers = [];\n    var geocoder = new google.maps.Geocoder();\n    document.getElementById('Submit').addEventListener('click', function(e) {\n      geocodeAddress(geocoder, map, markers);\n      e.preventDefault();\n    });\n}\n\nfunction getYoutubeMovies(lat, lng, word, rad, map, markers) {\n		var lat = lat.toString();\n		var lng = lng.toString();\n		var latLng  = lat + \",\" + lng;\n		var request = gapi.client.youtube.search.list({\n			part: \"snippet\",\n			q: word,\n			type: \"video\",\n			order: \"viewCount\",\n			maxResults : 25,\n			location : latLng,\n			locationRadius : rad\n		});\n		request.execute(function(response){\n			var vids = response.items;\n			var ids = [];\n			for (var x = 0; x < vids.length; x++) {\n				ids.push(vids[x].id.videoId);\n			}\n			var vrequest = gapi.client.youtube.videos.list({\n				part: \"snippet,recordingDetails\",\n				id: ids.join()\n			});\n			vrequest.execute(function(newresponse){\n				var newvids = newresponse.items;\n				// print our videos out\n				printVids(newvids);\n				// // remove markers from map\n				console.log(markers);\n				if (markers.length > 0) {\n					for (var z = 0; z < markers.length; z++) {\n						markers[z].setMap(null);\n					}\n					markers = [];\n				}\n				console.log(markers);\n				// place markers on map\n				if (markers.length > 0) { markers = []; }\n				for (var z = 0; z < newvids.length; z++) {\n					var vlat = newvids[z].recordingDetails.location.latitude;\n					var vlng = newvids[z].recordingDetails.location.longitude;\n					var marker = new google.maps.Marker({\n						position: {lat: vlat, lng: vlng},\n						map:  map\n					});\n					markers.push(marker);\n				}\n			})\n		});\n}\nfunction closeModal(){\n	var par = this.parentElement;\n	var classes = par.className;\n	checkClass(classes, \"toggle-off\", par);\n}\n\nfunction checkClass(i, c, elem) {\n	if (i.indexOf(c) != -1) {\n		removeClass(i, c, elem);\n	} else {\n		addClass(i, c, elem);\n	}\n}\nfunction removeClass(i, c, elem) {\n	console.log(i);\n}\nfunction addClass(i, c, elem) {\n	\n}\nfunction createFrame(t) {\n	var hook = document.getElementsByClassName(\"map-vids\")[0];\n	var d = t.getAttribute(\"data-video\");\n	var desc = t.parentElement.parentElement.getAttribute(\"data-desc\");\n	var tit = t.parentElement.parentElement.getAttribute(\"data-title\");\n	var wrap = document.createElement(\"div\");\n	var iwrap = document.createElement(\"div\");\n	var art = document.createElement(\"article\");\n	var h2 = document.createElement(\"h2\");\n	var p = document.createElement(\"p\");\n	var cont = document.createElement(\"div\");\n	var artwrap = document.createElement(\"div\");\n	var div = document.createElement(\"div\");\n	var iframe = document.createElement(\"iframe\");\n	var close = document.createElement(\"button\");\n\n	close.setAttribute(\"class\",\"close\");\n	close.innerText = \"X\";\n	cont.setAttribute(\"class\", \"main-desc\");\n	p.innerText = desc;\n	h2.innerText = tit;\n	wrap.setAttribute(\"class\", \"modal\");\n	iwrap.setAttribute(\"class\", \"inner-wrap\");\n	artwrap.setAttribute(\"class\", \"art-wrap\");\n	div.setAttribute(\"class\", \"vid-cont\");\n	iframe.setAttribute(\"src\", d);\n	cont.appendChild(p);\n	wrap.appendChild(close);\n	wrap.appendChild(iwrap);\n	iwrap.appendChild(art);\n	art.appendChild(artwrap);\n	artwrap.appendChild(h2);\n	artwrap.appendChild(div);\n	artwrap.appendChild(cont);\n	div.appendChild(iframe);\n	hook.appendChild(wrap);\n	close.addEventListener(\"click\", closeModal);\n	return false;\n}\n\nfunction printVids(vids) {\n	if (vids.length > 0) {\n		var r = document.getElementsByClassName(\"videos\")[0];\n		// empty list of videos\n		if (r.childNodes.length > 0) {\n			while(r.firstChild) {\n				r.removeChild(r.firstChild);\n			}\n		}\n		for (var z = 0; z < vids.length; z++){\n			var url = \"https://www.youtube.com/embed/\" + vids[z].id;\n			var imgUrl = vids[z].snippet.thumbnails.medium.url;\n			var m = (z%3);\n			var t = vids[z].snippet.title;\n			var d = vids[z].snippet.description;\n			var li = document.createElement(\"li\");\n			var h2 = document.createElement(\"h2\");\n			var play = document.createElement(\"button\");\n			var wrap = document.createElement(\"div\");\n			var img = document.createElement(\"img\");\n			h2.innerText = t;\n			if (m == 2) { li.setAttribute(\"data-url\", \"end\"); }\n			li.setAttribute(\"class\", \"video-cont\");\n			li.setAttribute(\"data-desc\", d);\n			li.setAttribute(\"data-title\", t);\n			play.setAttribute(\"class\", \"play\");\n			play.setAttribute(\"data-video\", url);\n			wrap.setAttribute(\"class\", \"img-wrap\");\n			img.setAttribute(\"src\", imgUrl);\n			img.setAttribute(\"class\", \"vid-img\");\n			play.innerText = \"More\";\n			// empty videos container\n			wrap.appendChild(img);\n			wrap.appendChild(play);\n			li.appendChild(h2);\n			li.appendChild(wrap);\n			r.appendChild(li);\n\n			play.addEventListener(\"click\", function() { createFrame(this); });\n		} // end for\n	}\n}\n\nfunction geocodeAddress(geocoder, resultsMap, markers) {\n     var address = document.getElementById('Address').value;\n     var keyword = document.getElementById(\"Keyword\").value;\n     var radius = document.getElementById(\"Radius\").value;\n     geocoder.geocode({'address': address}, function(results, status) {\n       if (status === 'OK') {\n         resultsMap.setCenter(results[0].geometry.location);\n         var marker = new google.maps.Marker({\n           map: resultsMap,\n           position: results[0].geometry.location\n         });\n         // get youtube videos\n         getYoutubeMovies(results[0].geometry.location.lat(), results[0].geometry.location.lng(), keyword, radius, resultsMap, markers);\n       } else {\n         alert('Geocode was not successful for the following reason: ' + status);\n       }\n     });\n}\n\nfunction init() {\n	gapi.client.setApiKey(\"AIzaSyD-85m0xB4Ce12rEUi78DDgQqWvximHVtA\");\n	gapi.client.load(\"youtube\", \"v3\", function(){\n		//yt api is ready\n	});\n}",
+			"file": "video.js",
+			"file_size": 5864,
+			"file_write_time": 1512504164000000,
+			"settings":
+			{
+				"buffer_size": 5846,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "style.css",
+			"settings":
+			{
+				"buffer_size": 8817,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"set html",
+				"Set Syntax: HTML"
+			],
+			[
+				"set php",
+				"Set Syntax: PHP"
+			],
+			[
+				"set htm",
+				"Set Syntax: HTML"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"p",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 530.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Applications/MAMP/htdocs/f1-oncology/wp-content/themes/f1oncology/partials/_posts.scss",
+		"/Applications/MAMP/htdocs/f1-oncology/wp-content/themes/f1oncology/template-parts/content.php",
+		"/Applications/MAMP/htdocs/f1-oncology/wp-content/themes/f1oncology/partials/_panels.scss",
+		"/Applications/MAMP/htdocs/f1-oncology/wp-content/themes/f1oncology/js/f1.js",
+		"/Applications/MAMP/htdocs/f1-oncology/wp-content/themes/f1oncology/_scss/f1.scss",
+		"/Applications/MAMP/htdocs/f1-oncology/wp-content/themes/f1oncology/partials/_pages.scss",
+		"/Applications/MAMP/htdocs/f1-oncology/wp-content/themes/f1oncology/js/slick.js",
+		"/Applications/MAMP/htdocs/f1-oncology/wp-content/themes/f1oncology/js/navigation.js",
+		"/Applications/MAMP/htdocs/f1-oncology/wp-content/themes/f1oncology/partials/_headers.scss",
+		"/Applications/MAMP/htdocs/f1-oncology/wp-content/themes/f1oncology/inc/ics.php",
+		"/Applications/MAMP/htdocs/f1-oncology/wp-content/themes/f1oncology/inc/extras.php",
+		"/Applications/MAMP/htdocs/f1-oncology/wp-content/themes/f1oncology/header.php",
+		"/Applications/MAMP/htdocs/f1-oncology/wp-content/themes/f1oncology/functions.php",
+		"/Applications/MAMP/htdocs/f1-oncology/wp-content/themes/f1oncology/template-parts/content-page.php",
+		"/Applications/MAMP/htdocs/f1-oncology/wp-content/themes/f1oncology/page.php",
+		"/Applications/MAMP/htdocs/f1-oncology/wp-content/themes/f1oncology/page-pipeline.php",
+		"/Applications/MAMP/htdocs/f1-oncology/wp-content/themes/f1oncology/page-team.php",
+		"/Applications/MAMP/htdocs/f1-oncology/wp-content/themes/f1oncology/page-work.php",
+		"/Applications/MAMP/htdocs/f1-oncology/wp-content/themes/f1oncology/template-parts/content-news-lander.php",
+		"/Applications/MAMP/htdocs/f1-oncology/wp-content/plugins/f1-ip/f1-ip.php",
+		"/Applications/MAMP/htdocs/f1-oncology/wp-content/themes/f1oncology/inc/customizer.php",
+		"/Applications/MAMP/htdocs/f1-oncology/wp-content/themes/f1oncology/js/f1-header.js",
+		"/Applications/MAMP/htdocs/f1-oncology/wp-content/themes/f1oncology/js/TweenMax.js",
+		"/Applications/MAMP/htdocs/f1-oncology/wp-content/themes/f1oncology/partials/_nav.scss",
+		"/Applications/MAMP/htdocs/f1-oncology/wp-content/themes/f1oncology/partials/_footer.scss",
+		"/Applications/MAMP/htdocs/f1-oncology/wp-content/plugins/f1-jobs/f1-jobs.php",
+		"/Applications/MAMP/htdocs/f1-oncology/wp-content/themes/f1oncology/partials/_forms.scss",
+		"/Applications/MAMP/htdocs/f1-oncology/sftp-config.json",
+		"/Applications/MAMP/htdocs/f1-oncology/wp-content/themes/f1oncology/page-partners.php",
+		"/Applications/MAMP/htdocs/f1-oncology/wp-content/themes/f1oncology/inc/custom-header.php",
+		"/Applications/MAMP/htdocs/f1-oncology/wp-content/themes/f1oncology/inc/template-tags.php",
+		"/Applications/MAMP/htdocs/f1-oncology/wp-content/themes/f1oncology/inc/jetpack.php",
+		"/Applications/MAMP/htdocs/f1-oncology/wp-admin/css/colors/_variables.scss",
+		"/Applications/MAMP/htdocs/f1-oncology/wp-config.php",
+		"/Applications/MAMP/htdocs/f1-oncology/wp-content/themes/f1oncology/js/CSSPlugin.js",
+		"/Applications/MAMP/htdocs/f1-oncology/wp-content/themes/f1oncology/404.php",
+		"/Applications/MAMP/htdocs/f1-oncology/.gitignore",
+		"/Applications/MAMP/htdocs/f1-oncology/.htaccess",
+		"/Applications/MAMP/htdocs/f1-oncology/wp-content/themes/f1oncology/partials/_animations.scss",
+		"/Applications/MAMP/htdocs/f1-oncology/wp-content/themes/f1oncology/_img/panel-pipeline-bg.svg",
+		"/Applications/MAMP/htdocs/f1-oncology/wp-content/themes/f1oncology/footer.php",
+		"/Applications/MAMP/htdocs/f1-oncology/wp-content/themes/f1oncology/_img/our-science-bg.svg",
+		"/Applications/MAMP/htdocs/f1-oncology/wp-content/themes/f1oncology/_img/our-science- bg.svg",
+		"/Applications/MAMP/htdocs/f1-oncology/wp-content/themes/f1oncology/archive.php",
+		"/Applications/MAMP/htdocs/f1-oncology/wp-content/themes/f1oncology/style.css",
+		"/Applications/MAMP/htdocs/f1-oncology/wp-includes/theme-compat/footer.php",
+		"/Applications/MAMP/htdocs/f1-oncology/wp-content/themes/f1oncology/template-parts/content-none.php",
+		"/Applications/MAMP/htdocs/f1-oncology/wp-content/themes/f1oncology/template-parts/content-search.php",
+		"/Applications/MAMP/htdocs/f1-oncology/wp-content/themes/f1oncology/_img/close.svg",
+		"/Applications/MAMP/htdocs/f1-oncology/wp-content/plugins/wordfence/lib/menu_blocking_advancedBlocking.php",
+		"/Applications/MAMP/htdocs/f1-oncology/wp-content/themes/f1oncology/js/slick-min.js",
+		"/Applications/MAMP/htdocs/f1-oncology/wp-content/themes/f1oncology/index.php",
+		"/Applications/MAMP/htdocs/f1-oncology/wp-includes/functions.php",
+		"/Applications/MAMP/htdocs/f1-oncology/wp-content/themes/f1oncology/_img/hamburger.sv",
+		"/Applications/MAMP/htdocs/f1-oncology/wp-content/themes/f1oncology/_img/plus-sign.svg",
+		"/Applications/MAMP/htdocs/f1-oncology/wp-content/themes/f1oncology/_img/minus-sign.svg",
+		"/Applications/MAMP/htdocs/f1-oncology/wp-includes/formatting.php",
+		"/Applications/MAMP/htdocs/f1-oncology/wp-content/themes/f1oncology/_img/search-icon.svg",
+		"/Applications/MAMP/htdocs/f1-oncology/wp-content/plugins/acf-repeater-collapser/css/acf4_repeater_collapser_admin.css",
+		"/Applications/MAMP/htdocs/f1-oncology/wp-content/themes/f1oncology/page-panels.php",
+		"/Applications/MAMP/htdocs/f1-oncology/wp-content/themes/f1oncology/single.php",
+		"/Applications/MAMP/htdocs/f1-oncology/wp-includes/theme-compat/header.php",
+		"/Applications/MAMP/htdocs/f1-oncology/wp-content/themes/f1oncology/_img/icon-twitter.svg",
+		"/Applications/MAMP/htdocs/f1-oncology/wp-content/themes/f1oncology/_img/paper-clip.svg",
+		"/Applications/MAMP/htdocs/f1-oncology/wp-content/themes/f1oncology/js/customizer.js",
+		"/Applications/MAMP/htdocs/f1-oncology/wp-content/themes/f1oncology/page-jobs.php",
+		"/Applications/MAMP/htdocs/f1-oncology/wp-content/themes/f1oncology/template-parts/content-page-jobs.php",
+		"/Applications/MAMP/htdocs/f1-oncology/wp-content/themes/f1oncology/_img/filter.svg",
+		"/Applications/MAMP/htdocs/sumiao/wp-content/themes/sumiaofull/partials/_navigation.scss",
+		"/Applications/MAMP/htdocs/sumiao/wp-content/themes/sumiaofull/partials/_menus.scss",
+		"/Applications/MAMP/htdocs/sumiao/wp-content/themes/sumiaofull/partials/_widgets.scss",
+		"/Applications/MAMP/htdocs/sumiao/wp-content/themes/sumiaofull/front-page.php",
+		"/Applications/MAMP/htdocs/sumiao/wp-content/themes/sumiaofull/partials/_event.scss",
+		"/Applications/MAMP/htdocs/sumiao/wp-content/themes/sumiaofull/partials/_variables.scss",
+		"/Applications/MAMP/htdocs/sumiao/wp-content/themes/sumiaofull/partials/_header.scss",
+		"/Applications/MAMP/htdocs/sumiao/wp-content/themes/sumiaofull/partials/_links.scss",
+		"/Applications/MAMP/htdocs/sumiao/wp-content/themes/sumiaofull/header.php",
+		"/Applications/MAMP/htdocs/sumiao/wp-content/themes/sumiaofull/partials/_footer.scss",
+		"/Applications/MAMP/htdocs/sumiao/wp-content/themes/sumiaofull/template-parts/content.php",
+		"/Applications/MAMP/htdocs/sumiao/wp-content/themes/sumiaofull/partials/_sub-page.scss",
+		"/Applications/MAMP/htdocs/sumiao/wp-content/themes/sumiaofull/single.php",
+		"/Applications/MAMP/htdocs/sumiao/wp-content/themes/sumiaofull/template-parts/content-page.php",
+		"/Applications/MAMP/htdocs/sumiao/wp-content/themes/sumiaofull/_scss/style-sumiaos.scss",
+		"/Applications/MAMP/htdocs/sumiao/wp-content/themes/sumiaofull/partials/_banner.scss",
+		"/Applications/MAMP/htdocs/sumiao/wp-content/themes/sumiaofull/_img/x.svg",
+		"/Applications/MAMP/htdocs/sumiao/wp-content/themes/sumiaofull/_img/hamburger.svg",
+		"/Applications/MAMP/htdocs/sumiao/wp-content/themes/sumiaofull/partials/_custom_mixins.scss",
+		"/Applications/MAMP/htdocs/sumiao/wp-content/plugins/sumiao-events/partials/_custom_mixins.scss",
+		"/Applications/MAMP/htdocs/sumiao/wp-content/themes/sumiaofull/js/navigation.js",
+		"/Applications/MAMP/htdocs/sumiao/wp-content/themes/sumiaofull/js/sumiaos.js",
+		"/Applications/MAMP/htdocs/sumiao/wp-content/themes/sumiaofull/footer.php",
+		"/Applications/MAMP/htdocs/sumiao/wp-includes/theme-compat/footer.php",
+		"/Applications/MAMP/htdocs/sumiao/wp-content/themes/sumiaofull/_img/sumiao-logo-nav-alt.svg",
+		"/Applications/MAMP/htdocs/sumiao/wp-content/themes/sumiaofull/partials/_animation.scss",
+		"/Applications/MAMP/htdocs/sumiao/wp-content/themes/sumiaofull/functions.php",
+		"/Applications/MAMP/htdocs/sumiao/wp-content/themes/sumiaofull/partials/_fonts.scss",
+		"/Applications/MAMP/htdocs/sumiao/wp-content/plugins/so-widgets-bundle/base/inc/fonts.php",
+		"/Applications/MAMP/htdocs/sumiao/wp-content/plugins/sumiao-events/partials/_variables.scss",
+		"/Applications/MAMP/htdocs/sumiao/wp-content/themes/sumiaofull/js/blendmode.js",
+		"/Applications/MAMP/htdocs/sumiao/wp-admin/css/colors/_variables.scss",
+		"/Applications/MAMP/htdocs/sumiao/wp-content/themes/sumiaofull/_img/close.svg",
+		"/Applications/MAMP/htdocs/sumiao/wp-content/plugins/sumiao-banner/sumiao-banner.php",
+		"/Applications/MAMP/htdocs/sumiao/wp-content/plugins/sumiao-banner/_js/sumiao-banner.js",
+		"/Applications/MAMP/htdocs/sumiao/wp-content/plugins/sumiao-menus/sumiaos-menus.php",
+		"/Applications/MAMP/htdocs/sumiao/wp-content/themes/sumiaofull/css/style-sumiaos.css",
+		"/Applications/MAMP/htdocs/sumiao/wp-includes/functions.php",
+		"/Applications/MAMP/htdocs/sumiao/wp-content/themes/sumiaofull/_scss/style-sumiaos.css",
+		"/Applications/MAMP/htdocs/sumiao/wp-content/plugins/sumiao-events/_scss/sumiaos-events.scss",
+		"/Applications/MAMP/htdocs/sumiao/wp-content/plugins/sumiao-events/_css/sumiaos-events.css",
+		"/Applications/MAMP/htdocs/sumiao/.gitignore",
+		"/Applications/MAMP/htdocs/sumiao/sftp-config.json",
+		"/Applications/MAMP/htdocs/sumiao/wp-content/themes/sumiao/partials/_menus.scss",
+		"/Applications/MAMP/htdocs/sumiao/wp-content/themes/sumiao/_scss/style-sumiaos.scss",
+		"/Applications/MAMP/htdocs/sumiao/wp-content/themes/sumiao/css/style-sumiaos.css",
+		"/Applications/MAMP/htdocs/sumiao/wp-content/themes/sumiao/partials/_variables.scss",
+		"/Applications/MAMP/htdocs/sumiao/wp-content/themes/sumiao/partials/_widgets.scss",
+		"/Applications/MAMP/htdocs/sumiao/wp-content/themes/sumiao/js/sumiaos.js",
+		"/Applications/MAMP/htdocs/sumiao/wp-content/themes/sumiao/functions.php",
+		"/Applications/MAMP/htdocs/sumiao/wp-content/plugins/sumiao-menus/_css/sumiaos-menus.css",
+		"/Applications/MAMP/htdocs/sumiao/wp-content/plugins/sumiao-menus/_scss/sumiaos-menus.scss",
+		"/Applications/MAMP/htdocs/sumiao/wp-content/themes/sumiao/partials/_fonts.scss",
+		"/Applications/MAMP/htdocs/sumiao/wp-content/plugins/sumiao-menus/_scss/screen.scss",
+		"/Applications/MAMP/htdocs/sumiao/wp-content/plugins/sumiao-menus/_js/sumiaos-menus.js",
+		"/Applications/MAMP/htdocs/sumiao/wp-content/themes/sumiao/js/font-load.js",
+		"/Applications/MAMP/htdocs/sumiao/wp-content/themes/sumiao/partials/_blog.scss",
+		"/Applications/MAMP/htdocs/sumiao/wp-content/plugins/sumiao-events/_scss/screen.scss",
+		"/Applications/MAMP/htdocs/sumiao/wp-content/themes/sumiao/partials/_sub-page.scss",
+		"/Applications/MAMP/htdocs/sumiao/wp-content/themes/sumiao/partials/_resource-library.scss"
+	],
+	"find":
+	{
+		"height": 37.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"partner-types",
+			"partner-image",
+			"partner-types",
+			"location",
+			"stretch",
+			"false",
+			"center",
+			"slick-track",
+			"false",
+			"true",
+			"black",
+			"-20px",
+			"-136px",
+			"-46px",
+			"location-content",
+			"expectations",
+			"slick-slide",
+			"125px",
+			"entry-content",
+			"p {",
+			"li",
+			"gfrom",
+			"get in",
+			"contact",
+			"use",
+			"use the",
+			"slick-slide",
+			"entry-panel-partner-types",
+			"panel-partner-types",
+			"job",
+			"view",
+			"front_page",
+			"transform:",
+			"entry-buttons",
+			"narrow",
+			"button_link",
+			"								$",
+			"$location_name",
+			"entry-content",
+			"center",
+			"team",
+			"expectation",
+			"user-select",
+			"locations",
+			"slider",
+			"$x",
+			"print_r",
+			"$break-1500",
+			"@media screen and (min-width: $xx-large-break) {\n					transform",
+			"{\n					transform",
+			"$large-break",
+			"$small-break",
+			"transform:",
+			"2s",
+			".3s",
+			"property",
+			"before",
+			" -70px",
+			"-175px",
+			"72px",
+			"-50px",
+			"-175px",
+			"33px",
+			"-58%",
+			"panel-partners",
+			"select_files",
+			"buttons",
+			"entry-panels",
+			"<p>",
+			"global process",
+			"process",
+			"entry-buttons",
+			"testimonial",
+			"panel-buttons",
+			"header",
+			"expectations_nav",
+			"margin",
+			"header-size-tall",
+			"property",
+			"background",
+			".location",
+			"job-postings",
+			".team_nav",
+			"expectations_nav",
+			"button",
+			"team_nav",
+			"panel-button",
+			"color",
+			"$larger-break",
+			"-5%",
+			"location-content",
+			"panel-buttons",
+			"flex-end",
+			"entry-parent-link",
+			"color",
+			"-130px",
+			"header-size-tall",
+			"page-template-default",
+			"partner",
+			"entry-sidebar",
+			".locations",
+			"single-post",
+			"button",
+			"pipeline",
+			"button",
+			"cente",
+			"center",
+			"buttons",
+			"center",
+			" center",
+			"center",
+			"locations",
+			"space-around",
+			"center",
+			"menu-2",
+			"Footer Left",
+			"footer left",
+			"entry-panel-partners",
+			"align-self",
+			"ul {",
+			"0",
+			"-20px",
+			"130px",
+			"panel-image-anchored",
+			"start",
+			".date",
+			".panel-footer",
+			"button"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"settings":
+					{
+						"buffer_size": 1337,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"devel": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": "load-save",
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/AngularJS/AngularJS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "video.js",
+					"settings":
+					{
+						"buffer_size": 5846,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2126,
+								2126
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"devel": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": "load-save",
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 883.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "style.css",
+					"settings":
+					{
+						"buffer_size": 8817,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								7731,
+								7731
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"devel": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": "load-save",
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 6292.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.sftp":
+	{
+		"height": 360.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"_p",
+				"wp-content/themes/f1oncology/partials/_panels.scss"
+			],
+			[
+				"_pa",
+				"wp-content/themes/f1oncology/partials/_panels.scss"
+			],
+			[
+				"_pan",
+				"wp-content/themes/f1oncology/partials/_panels.scss"
+			],
+			[
+				"_head",
+				"wp-content/themes/f1oncology/partials/_headers.scss"
+			],
+			[
+				"head",
+				"wp-content/themes/f1oncology/header.php"
+			],
+			[
+				"_he",
+				"wp-content/themes/f1oncology/partials/_headers.scss"
+			],
+			[
+				"_hea",
+				"wp-content/themes/f1oncology/partials/_headers.scss"
+			],
+			[
+				"ics",
+				"wp-content/themes/f1oncology/inc/ics.php"
+			],
+			[
+				"funct",
+				"wp-content/themes/f1oncology/functions.php"
+			],
+			[
+				"_pn",
+				"wp-content/themes/f1oncology/partials/_panels.scss"
+			],
+			[
+				"_panel",
+				"wp-content/themes/f1oncology/partials/_panels.scss"
+			],
+			[
+				"fun",
+				"wp-content/themes/f1oncology/functions.php"
+			],
+			[
+				"f1",
+				"wp-content/themes/f1oncology/_scss/f1.scss"
+			],
+			[
+				"_var",
+				"wp-admin/css/colors/_variables.scss"
+			],
+			[
+				"f1-h",
+				"wp-content/themes/f1oncology/js/f1-header.js"
+			],
+			[
+				"wp",
+				"wp-config.php"
+			],
+			[
+				"wp-con",
+				"wp-config.php"
+			],
+			[
+				"func",
+				"wp-content/themes/f1oncology/functions.php"
+			],
+			[
+				"_for",
+				"wp-content/themes/f1oncology/partials/_forms.scss"
+			],
+			[
+				"_form",
+				"wp-content/themes/f1oncology/partials/_forms.scss"
+			],
+			[
+				"conte",
+				"wp-content/themes/f1oncology/template-parts/content-page.php"
+			],
+			[
+				"header",
+				"wp-content/themes/f1oncology/header.php"
+			],
+			[
+				"navg",
+				"wp-content/themes/f1oncology/js/navigation.js"
+			],
+			[
+				"content-page",
+				"wp-content/themes/f1oncology/template-parts/content-page.php"
+			],
+			[
+				"_page",
+				"wp-content/themes/f1oncology/partials/_pages.scss"
+			],
+			[
+				"_header",
+				"wp-content/themes/f1oncology/partials/_headers.scss"
+			],
+			[
+				"_pane",
+				"wp-content/themes/f1oncology/partials/_panels.scss"
+			],
+			[
+				"content-ap",
+				"wp-content/themes/f1oncology/template-parts/content-page.php"
+			],
+			[
+				"extra",
+				"wp-content/themes/f1oncology/inc/extras.php"
+			],
+			[
+				"_foo",
+				"wp-content/themes/f1oncology/partials/_footer.scss"
+			],
+			[
+				"navi",
+				"wp-content/themes/f1oncology/js/navigation.js"
+			],
+			[
+				"ics.php",
+				"wp-content/themes/f1oncology/inc/ics.php"
+			],
+			[
+				"_po",
+				"wp-content/themes/f1oncology/partials/_posts.scss"
+			],
+			[
+				"ic",
+				"wp-content/themes/f1oncology/inc/ics.php"
+			],
+			[
+				"extr",
+				"wp-content/themes/f1oncology/inc/extras.php"
+			],
+			[
+				"_post",
+				"wp-content/themes/f1oncology/partials/_posts.scss"
+			],
+			[
+				"footer",
+				"wp-content/themes/f1oncology/footer.php"
+			],
+			[
+				"_na",
+				"wp-content/themes/f1oncology/partials/_nav.scss"
+			],
+			[
+				"archive",
+				"wp-content/themes/f1oncology/archive.php"
+			],
+			[
+				"_nav",
+				"wp-content/themes/f1oncology/partials/_nav.scss"
+			],
+			[
+				"_pos",
+				"wp-content/themes/f1oncology/partials/_posts.scss"
+			],
+			[
+				"nav",
+				"wp-content/themes/f1oncology/js/navigation.js"
+			],
+			[
+				"f1.s",
+				"wp-content/themes/f1oncology/_scss/f1.scss"
+			],
+			[
+				"p_page",
+				"wp-content/themes/f1oncology/partials/_pages.scss"
+			],
+			[
+				"f1.sc",
+				"wp-content/themes/f1oncology/_scss/f1.scss"
+			],
+			[
+				"ex",
+				"wp-content/themes/f1oncology/inc/extras.php"
+			],
+			[
+				"hea",
+				"wp-content/themes/f1oncology/header.php"
+			],
+			[
+				"_h",
+				"wp-content/themes/f1oncology/partials/_headers.scss"
+			],
+			[
+				"sty.",
+				"wp-content/themes/f1oncology/style.css"
+			],
+			[
+				"foo",
+				"wp-content/themes/f1oncology/footer.php"
+			],
+			[
+				"na",
+				"wp-content/themes/f1oncology/js/navigation.js"
+			],
+			[
+				"navig",
+				"wp-content/themes/f1oncology/js/navigation.js"
+			],
+			[
+				"_pages",
+				"wp-content/themes/f1oncology/partials/_pages.scss"
+			],
+			[
+				"content-page.php",
+				"wp-content/themes/f1oncology/template-parts/content-page.php"
+			],
+			[
+				"page",
+				"wp-content/themes/f1oncology/page.php"
+			],
+			[
+				"frontpage",
+				"wp-content/themes/f1oncology/template-parts/content-page.php"
+			],
+			[
+				"styl",
+				"wp-content/themes/f1oncology/style.css"
+			],
+			[
+				"sty",
+				"wp-content/themes/f1oncology/style.css"
+			],
+			[
+				"clos",
+				"wp-content/themes/f1oncology/_img/close.svg"
+			],
+			[
+				"_lan",
+				"wp-content/plugins/wordfence/lib/menu_blocking_advancedBlocking.php"
+			],
+			[
+				"f1.js",
+				"wp-content/themes/f1oncology/js/f1.js"
+			],
+			[
+				"arch",
+				"wp-content/themes/f1oncology/archive.php"
+			],
+			[
+				"f1.",
+				"wp-content/themes/f1oncology/js/f1.js"
+			],
+			[
+				"archi",
+				"wp-content/themes/f1oncology/archive.php"
+			],
+			[
+				"_footer",
+				"wp-content/themes/f1oncology/partials/_footer.scss"
+			],
+			[
+				"w",
+				"wp-config.php"
+			],
+			[
+				"navgi",
+				"wp-content/themes/f1oncology/js/navigation.js"
+			],
+			[
+				"_fo",
+				"wp-content/themes/f1oncology/partials/_forms.scss"
+			],
+			[
+				"form",
+				"wp-includes/formatting.php"
+			],
+			[
+				"_f",
+				"wp-content/themes/f1oncology/partials/_forms.scss"
+			],
+			[
+				"_paln",
+				"wp-content/plugins/acf-repeater-collapser/css/acf4_repeater_collapser_admin.css"
+			],
+			[
+				"_panels",
+				"wp-content/themes/f1oncology/partials/_panels.scss"
+			],
+			[
+				"conten",
+				"wp-content/themes/f1oncology/template-parts/content-page.php"
+			],
+			[
+				"sing",
+				"wp-content/themes/f1oncology/single.php"
+			],
+			[
+				"404",
+				"wp-content/themes/f1oncology/404.php"
+			],
+			[
+				"content",
+				"wp-content/themes/f1oncology/template-parts/content-page.php"
+			],
+			[
+				"cont",
+				"wp-content/themes/f1oncology/template-parts/content.php"
+			],
+			[
+				"_",
+				"wp-content/themes/f1oncology/partials/_panels.scss"
+			],
+			[
+				"single",
+				"wp-content/themes/f1oncology/single.php"
+			],
+			[
+				"_panl",
+				"wp-content/themes/f1oncology/partials/_panels.scss"
+			],
+			[
+				"_menu",
+				"wp-content/themes/sumiaofull/partials/_menus.scss"
+			],
+			[
+				"_wi",
+				"wp-content/themes/sumiaofull/partials/_widgets.scss"
+			],
+			[
+				"_m",
+				"wp-content/themes/sumiaofull/partials/_menus.scss"
+			],
+			[
+				"fron",
+				"wp-content/themes/sumiaofull/front-page.php"
+			],
+			[
+				"_lin",
+				"wp-content/themes/sumiaofull/partials/_links.scss"
+			],
+			[
+				"_eve",
+				"wp-content/themes/sumiaofull/partials/_event.scss"
+			],
+			[
+				"_men",
+				"wp-content/themes/sumiaofull/partials/_menus.scss"
+			],
+			[
+				"_l",
+				"wp-content/themes/sumiaofull/partials/_links.scss"
+			],
+			[
+				"_even",
+				"wp-content/themes/sumiaofull/partials/_event.scss"
+			],
+			[
+				"_link",
+				"wp-content/themes/sumiaofull/partials/_links.scss"
+			],
+			[
+				"heade",
+				"wp-content/themes/sumiaofull/header.php"
+			],
+			[
+				"_banner",
+				"wp-content/themes/sumiaofull/partials/_banner.scss"
+			],
+			[
+				"_ba",
+				"wp-content/themes/sumiaofull/partials/_banner.scss"
+			],
+			[
+				"_me",
+				"wp-content/themes/sumiaofull/partials/_menus.scss"
+			],
+			[
+				"front",
+				"wp-content/themes/sumiaofull/front-page.php"
+			],
+			[
+				"he",
+				"wp-content/themes/sumiaofull/header.php"
+			],
+			[
+				"x.sv",
+				"wp-content/themes/sumiaofull/_img/x.svg"
+			],
+			[
+				"_cu",
+				"wp-content/themes/sumiaofull/partials/_custom_mixins.scss"
+			],
+			[
+				"_w",
+				"wp-content/themes/sumiaofull/partials/_widgets.scss"
+			],
+			[
+				"_ban",
+				"wp-content/themes/sumiaofull/partials/_banner.scss"
+			],
+			[
+				"_an",
+				"wp-content/themes/sumiaofull/partials/_animation.scss"
+			],
+			[
+				"_font",
+				"wp-content/themes/sumiaofull/partials/_fonts.scss"
+			],
+			[
+				"font",
+				"wp-content/plugins/so-widgets-bundle/base/inc/fonts.php"
+			],
+			[
+				"foote",
+				"wp-content/themes/sumiaofull/footer.php"
+			],
+			[
+				"_li",
+				"wp-content/themes/sumiaofull/partials/_links.scss"
+			],
+			[
+				"_v",
+				"wp-content/plugins/sumiao-events/partials/_variables.scss"
+			],
+			[
+				"_va",
+				"wp-content/themes/sumiaofull/partials/_variables.scss"
+			],
+			[
+				"_bann",
+				"wp-content/themes/sumiaofull/partials/_banner.scss"
+			],
+			[
+				"_ani",
+				"wp-content/themes/sumiaofull/partials/_animation.scss"
+			],
+			[
+				"fu",
+				"wp-content/themes/sumiao/functions.php"
+			],
+			[
+				"_wid",
+				"wp-content/themes/sumiao/partials/_widgets.scss"
+			],
+			[
+				"_widt",
+				"wp-content/themes/sumiao/partials/_widgets.scss"
+			],
+			[
+				"_fon",
+				"wp-content/themes/sumiao/partials/_fonts.scss"
+			],
+			[
+				"_cum",
+				"wp-content/themes/sumiao/partials/_custom_mixins.scss"
+			],
+			[
+				"_mi",
+				"wp-content/plugins/sumiao-events/partials/_custom_mixins.scss"
+			],
+			[
+				"_heade",
+				"wp-content/themes/sumiao/partials/_header.scss"
+			],
+			[
+				"widget.sc",
+				"wp-content/themes/sumiao/partials/_widgets.scss"
+			],
+			[
+				"wid",
+				"wp-admin/widgets.php"
+			],
+			[
+				"w-",
+				"wp-config.php"
+			],
+			[
+				"function",
+				"wp-content/themes/sumiao/functions.php"
+			],
+			[
+				"custom_",
+				"wp-content/plugins/sumiao-events/partials/_custom_mixins.scss"
+			],
+			[
+				"sumiao",
+				"wp-content/themes/sumiao/js/sumiaos.js"
+			],
+			[
+				"mai",
+				"app/partials/main.html"
+			],
+			[
+				"main",
+				"app/partials/main.html"
+			],
+			[
+				"content-adj",
+				"wp-content/themes/roots/templates/content-adjacent-posts.php"
+			],
+			[
+				"content-aut",
+				"wp-content/themes/roots/templates/content-author.php"
+			],
+			[
+				"content-sin",
+				"wp-content/themes/roots/loop-single.php"
+			],
+			[
+				"adj",
+				"wp-content/themes/roots/templates/content-adjacent-posts.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/Applications/MAMP/htdocs/icswebsite/new-ics-site.sublime-project"
+			],
+			[
+				"spee",
+				"/Applications/MAMP/htdocs/speed-kills-2/speed-test.sublime-project"
+			],
+			[
+				"vir",
+				"/Applications/MAMP/htdocs/virga/virga.sublime-project"
+			],
+			[
+				"f1",
+				"/Applications/MAMP/htdocs/f1-oncology/f1oncology.sublime-project"
+			],
+			[
+				"ic",
+				"/Applications/MAMP/htdocs/icswebsite/new-ics-site.sublime-project"
+			],
+			[
+				"eb",
+				"/Applications/MAMP/htdocs/ebi/ebi.sublime-project"
+			],
+			[
+				"annu",
+				"/Applications/MAMP/htdocs/annuitas/annuitas.sublime-project"
+			],
+			[
+				"jov",
+				"/Applications/MAMP/htdocs/jove/jove.sublime-project"
+			],
+			[
+				"bur",
+				"/Applications/MAMP/htdocs/burro-bar-brookline/burrobarbrookline.sublime-project"
+			],
+			[
+				"fo",
+				"/Applications/MAMP/htdocs/fort-point/fort-point.sublime-project"
+			],
+			[
+				"we",
+				"/Users/jacob/Dropbox/Furley II/Projects/Webber Group/Site-Files/domains/WebberRestaurantGroup.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 321.0,
+	"status_bar_visible": true
+}
